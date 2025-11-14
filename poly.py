@@ -1,6 +1,5 @@
 """
 Polymorphism in Python - 700+ lines of code demonstration
-Paste this directly into VS Code and run it.
 This script includes:
  - Built-in polymorphism
  - Polymorphism with classes (method overriding)
